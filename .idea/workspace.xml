@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1183244-e514-4414-8ff1-ccff49fd744a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringSecurity/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringSecurity/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringSecurity/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringSecurity/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringSecurity/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringSecurity/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringSecurity/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringSecurity/src/main/java/com/example/springsecurity/SpringSecurityApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringSecurity/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringSecurity/src/test/java/com/example/springsecurity/SpringSecurityApplicationTests.java" afterDir="false" />
-    </list>
+    <list default="true" id="c1183244-e514-4414-8ff1-ccff49fd744a" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,9 +18,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Yeonjae37"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Yeonjae37/SpringSecurity.git",
+    "accountId": "b54d734b-8f22-4ae7-94f4-85c4acb1188c"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2j6YsdnvIb2L2WwfNbq0LwOuOGU" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -43,7 +41,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
@@ -75,6 +73,7 @@
       <option name="presentableId" value="Default" />
       <updated>1720709203672</updated>
       <workItem from="1720709208344" duration="216000" />
+      <workItem from="1720709512614" duration="15000" />
     </task>
     <servers />
   </component>
